@@ -7,7 +7,7 @@ function Footer(props) {
       <Fade top>
         <p>Let's Connect!</p>
         <div className='con-icon'>
-          <a target='_blank' href='https://www.linkedin.com/in/devansh-abrol-46463b201/'><img src='https://cdn.icon-icons.com/icons2/2248/PNG/512/linkedin_icon_135436.png'></img></a>
+          <a target='_blank' href='https://www.linkedin.com/in/devansh-abrol-46463b201/'><img src='https://cdn-icons-png.flaticon.com/512/4138/4138173.png'></img></a>
           <a target='_blank' href='https://www.facebook.com/devansh.abrol.921/'><img src='https://cdn-icons-png.flaticon.com/512/59/59439.png'></img></a>
           <a target='_blank' href='https://github.com/devansh1503'><img src='https://cdn-icons-png.flaticon.com/512/25/25231.png'></img></a>
         </div>
